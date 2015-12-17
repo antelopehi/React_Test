@@ -11,5 +11,5 @@ var Hello = React.createClass({
 
 React.render(
     <Hello />,
-    document.getElementById("content")
+   document.getElementById("content")
 )
